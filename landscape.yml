@@ -5016,6 +5016,14 @@ landscape:
             organization:
               name: GStreamer Team
           - item:
+            name: JAX
+            homepage_url: https://gstreamer.freedesktop.org/
+            repo_url: https://github.com/jax-ml/jax
+            project_org: https://github.com/jax-ml
+            logo: jax_logo.svg
+            organization:
+              name: The JAX Authors
+          - item:
             name: musl
             homepage_url: https://musl.libc.org/
             logo: musl_libc.svg
