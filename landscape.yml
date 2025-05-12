@@ -5855,7 +5855,19 @@ landscape:
             name: LLVM
             homepage_url: https://llvm.org/
             repo_url: https://github.com/llvm/llvm-project
+            project_org: https://github.com/llvm
             logo: llvm.svg
+            organization:
+              name: LLVM Foundation
+            crunchbase: https://www.crunchbase.com/organization/llvm-foundation
+          - item:
+            name: MLIR
+            homepage_url: https://mlir.llvm.org/
+            repo_url: https://github.com/llvm/llvm-project/tree/main/mlir
+            project_org: https://github.com/llvm
+            logo: mlir-identity-01.svg
+            organization:
+              name: LLVM Foundation
             crunchbase: https://www.crunchbase.com/organization/llvm-foundation
           - item:
             name: QEMU
